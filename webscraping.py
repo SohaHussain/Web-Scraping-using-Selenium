@@ -1,7 +1,7 @@
 from selenium import webdriver
 
 website = 'https://www.adamchoi.co.uk/teamgoals/detailed'
-path = 'C:/Users/sohal/Downloads/chromedriver_win32/chromedriver.exe'
+path = # add path here
 driver = webdriver.Chrome(path)
 driver.get(website)
 
